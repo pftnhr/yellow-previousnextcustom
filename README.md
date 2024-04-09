@@ -1,10 +1,8 @@
-<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
+<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a></p>
 
 # Previousnext Custom 0.9.1
 
 Show links to previous/next page as buttons.
-
-<p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
 ## How to install an extension
 
